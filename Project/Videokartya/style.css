@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #606c38;
+}
+.container{
+    background-color: #dda15e;
+}
+header{
+    background-image: url(../images/cloud_header.jpg);
+    height: 139px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.szov1{
+    font-family: Tahoma;
+    font-size: 1.4rem;
+    color: darkblue;
+    text-align: justify;
+}
